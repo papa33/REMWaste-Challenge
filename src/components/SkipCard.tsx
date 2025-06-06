@@ -35,11 +35,11 @@ export default function SkipCard({ skip, isSelected, onClick }: SkipCardProps) {
         sx={{
           maxWidth: 345,
           position: "relative",
-          border: isSelected ? "2px solid green" : "1px solid transparent",
+          border: isSelected ? "2px solid #1976d2" : "1px solid transparent",
           cursor: onClick ? "pointer" : "default",
           transition: "all 0.3s ease",
           "&:hover": {
-            border: isSelected ? "2px solid green" : "1px solid #ccc",
+            border: isSelected ? "2px solid #1976d2" : "1px solid #ccc",
             boxShadow: "0 4px 8px rgba(0,0,0,0.1)"
           }
         }}
