@@ -4,7 +4,7 @@ import React from 'react';
 interface StepperProps {
 }
 
-export const AppStepper: React.FC<StepperProps> = ({ }) => {
+export const AppStepper: React.FC<StepperProps> = () => {
     const steps = ['Postcode', 'Waste Type', 'Select Skip', 'Permit Check', 'Choose Date','Payment'];
   
   return (
