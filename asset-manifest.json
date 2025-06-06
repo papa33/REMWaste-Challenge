@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/papa33/REMWaste-Challenge/static/css/main.bc70e8a7.css",
+    "main.js": "/papa33/REMWaste-Challenge/static/js/main.cf9cdf18.js",
+    "static/js/453.82cbf38c.chunk.js": "/papa33/REMWaste-Challenge/static/js/453.82cbf38c.chunk.js",
+    "index.html": "/papa33/REMWaste-Challenge/index.html",
+    "main.bc70e8a7.css.map": "/papa33/REMWaste-Challenge/static/css/main.bc70e8a7.css.map",
+    "main.cf9cdf18.js.map": "/papa33/REMWaste-Challenge/static/js/main.cf9cdf18.js.map",
+    "453.82cbf38c.chunk.js.map": "/papa33/REMWaste-Challenge/static/js/453.82cbf38c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc70e8a7.css",
+    "static/js/main.cf9cdf18.js"
+  ]
+}
