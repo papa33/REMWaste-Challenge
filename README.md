@@ -21,11 +21,9 @@ A clean, responsive React application that allows users to select a skip size fo
 
 ---
 
-## 🏁 Quick Start
+## Quick Start
 
 To run this project locally:
-
-### 1. Clone the repo
 
 ```bash
 git clone https://github.com/papa33/REMWaste-Challenge.git
