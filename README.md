@@ -4,7 +4,7 @@ A clean, responsive React application that allows users to select a skip size fo
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fetches and displays available skip sizes (mock data)
 - Responsive grid layout using Material UI
@@ -13,11 +13,11 @@ A clean, responsive React application that allows users to select a skip size fo
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
-- ⚛️ React (TypeScript)
-- 💅 Material UI (MUI)
-- 🔧 Create React App (CRA)
+- React (TypeScript)
+- Material UI (MUI)
+- Create React App (CRA)
 
 ---
 
