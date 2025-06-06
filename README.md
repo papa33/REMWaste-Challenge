@@ -29,4 +29,4 @@ To run this project locally:
 git clone https://github.com/papa33/REMWaste-Challenge.git
 cd REMWaste-Challenge
 npm install
-npm start
+npm run start
